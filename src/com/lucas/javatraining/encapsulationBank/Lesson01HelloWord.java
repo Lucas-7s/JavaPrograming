@@ -19,7 +19,7 @@ public class Lesson01HelloWord {
 		int age = teclado.nextInt();
 		
 		//float
-		System.out.println("\nWhat is your weight?");
+		System.out.print("\nWhat is your weight?: ");
 		float weigh = teclado.nextFloat();
 		
 		System.out.println("\nWelcome " + name + " to the practical lessons of the Java programming language");
