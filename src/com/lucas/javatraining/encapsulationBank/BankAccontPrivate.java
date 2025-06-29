@@ -2,7 +2,7 @@ package com.lucas.javatraining.encapsulationBank;
 
 import java.util.Scanner;
 
-public class BankAccont {
+public class BankAccontPrivate {
 
 	public static double abrirConta(String tipoConta) {
 		if (tipoConta == "conta corrente") {

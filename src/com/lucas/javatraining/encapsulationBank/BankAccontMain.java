@@ -2,7 +2,7 @@ package com.lucas.javatraining.encapsulationBank;
 
 import java.util.Scanner;
 
-public class Main {
+public class BankAccontMain {
 
 	public static void main(String[] args) {
 		int spacingSize = 55;
@@ -57,9 +57,9 @@ public class Main {
 	        case "1":
 	            System.out.println("OK");
 	        case "2":
-	        	saldoMenu1 = BankAccont.abrirConta("conta corrente");
+	        	saldoMenu1 = BankAccontPrivate.abrirConta("conta corrente");
 			case "3":
-				saldoMenu1 = BankAccont.abrirConta("conta poupanca");
+				saldoMenu1 = BankAccontPrivate.abrirConta("conta poupanca");
 	        }
 
 	        teclado.close();
