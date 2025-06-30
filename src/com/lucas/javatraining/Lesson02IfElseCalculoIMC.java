@@ -1,8 +1,8 @@
-package com.lucas.javatraining.encapsulationBank;
+package com.lucas.javatraining;
 
 import java.util.Scanner;
 
-public class Lesson02IfElse {
+public class Lesson02IfElseCalculoIMC {
 	public static void main(String[] args) {
 		
 		Scanner teclado = new Scanner(System.in);
@@ -15,7 +15,7 @@ public class Lesson02IfElse {
 		float altura, peso, imc;
 		
 		System.out.println("=".repeat(55));
-		System.out.println(" ".repeat((55-titulo.length())/2) + titulo + " ".repeat((55-titulo.length())/2));
+		System.out.println(" ".repeat((55-titulo.length())/2) + titulo.toUpperCase() + " ".repeat((55-titulo.length())/2));
 		System.out.println("=".repeat(55) + "\n");
 		
 		System.out.print("Qual a sua altura?: ");

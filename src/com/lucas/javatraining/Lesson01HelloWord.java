@@ -1,4 +1,4 @@
-package com.lucas.javatraining.encapsulationBank;
+package com.lucas.javatraining;
 
 import java.util.Scanner;
 
