@@ -2,7 +2,7 @@ package com.lucas.javatraining;
 
 import java.util.Scanner;
 
-public class Lesson01HelloWord {
+public class Ex01HelloWord {
 
 	public static void main(String[] args) {
 		Scanner teclado = new Scanner(System.in);

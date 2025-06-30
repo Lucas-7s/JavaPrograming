@@ -2,7 +2,7 @@ package com.lucas.javatraining;
 
 import java.util.Scanner;
 
-public class Lesson02IfElseCalculoIMC {
+public class Ex02IfElseCalculoIMC {
 	public static void main(String[] args) {
 		
 		Scanner teclado = new Scanner(System.in);
