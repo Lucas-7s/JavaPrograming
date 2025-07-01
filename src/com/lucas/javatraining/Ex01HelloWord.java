@@ -20,10 +20,11 @@ public class Ex01HelloWord {
 		
 		//float
 		System.out.print("\nWhat is your weight?: ");
-		float weigh = teclado.nextFloat();
+		double weigh = teclado.nextFloat();
 		
+		//use print, println, prinf
 		System.out.println("\nWelcome " + name + " to the practical lessons of the Java programming language");
-		System.out.println("You are "+ age + " years old and weigh " +  weigh + " kilograms");
+		System.out.printf("You are %d years old and weigh %.2f o kilograms", age, weigh);
 		
 		teclado.close();
 		
