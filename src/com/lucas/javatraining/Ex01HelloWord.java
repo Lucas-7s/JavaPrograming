@@ -1,10 +1,14 @@
+//Programa para treinar entrada e saida simples
+
 package com.lucas.javatraining;
 
+//biblioteca utilizada para entrada do usuário
 import java.util.Scanner;
 
 public class Ex01HelloWord {
 
 	public static void main(String[] args) {
+		//Abre a entrada (digitação do usuário) nome teclado
 		Scanner teclado = new Scanner(System.in);
 		
 		//Hello Word

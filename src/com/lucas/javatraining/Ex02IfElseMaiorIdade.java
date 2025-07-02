@@ -1,3 +1,8 @@
+/*
+ * Programa para treinar condicional composta (if e else)
+ * Pede data de nascimento e calcula a idade (ano base do programa 2025)
+*/
+
 package com.lucas.javatraining;
 
 import java.util.Scanner;
@@ -5,32 +10,34 @@ import java.util.Scanner;
 public class Ex02IfElseMaiorIdade {
 
 	public static void main(String[] args) {
-		
-		//Abre a entrada (digitação do usuário) nome teclado
+
 		Scanner teclado = new Scanner(System.in);
 		
 		//Declaração de variáveis
-		//cabeçario
-		
+		//intro
 		int tamanhoEspaco = 70;
-		int anoAtual = 2025;
-		int idade, anoNascimento;
+		int anoAtual = 2025; // ano atual base do programa
 		String titulo = "Programa que Verifica se é Maior de idade (Ano atual " + anoAtual + ")";
 		String espaco = " ".repeat((tamanhoEspaco - titulo.length()) / 2);
+		//outras variáveis
+		int idade, anoNascimento;
 		
-		//titulo do programa, o cabeçario
+		//intro
 		System.out.println("=".repeat(tamanhoEspaco));
 		System.out.println(espaco + titulo.toUpperCase() + espaco);
 		System.out.println("=".repeat(tamanhoEspaco) + "\n");
 		
-		//Pega a idade
+		//entrada do usuario
 		System.out.print("Qual o seu ano de nascimento?: ");
 		anoNascimento = teclado.nextInt();
 		
+		//calculo
 		idade = anoAtual - anoNascimento;
 		
+		//saida
 		System.out.print("Sua idade é de " + idade + " anos. Você é ");
 		
+		//verifica se é menor ou maior de idade com resultado do calculo
 		if (idade < 18) {
 			System.out.println("menor de idade.");
 		} else {
@@ -38,9 +45,7 @@ public class Ex02IfElseMaiorIdade {
 		}
 				
 		System.out.println("\n" + "=".repeat(tamanhoEspaco));
-
-				
-		//Fecha o teclado
+	
 		teclado.close();
 	}
 

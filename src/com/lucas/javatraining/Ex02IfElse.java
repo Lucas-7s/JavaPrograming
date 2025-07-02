@@ -1,3 +1,5 @@
+//Programa para treinar condicional simples (if)
+
 package com.lucas.javatraining;
 
 import java.util.Scanner;
