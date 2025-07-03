@@ -1,5 +1,5 @@
 /*
- * Programa para treinar condicional composta (if e else)
+ * Programa para treinar Estrutura Condicional Encadeada
  * Pede data de nascimento e calcula a idade (ano base do programa 2025)
 */
 
