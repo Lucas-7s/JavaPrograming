@@ -1,6 +1,6 @@
 /*
  * Programa para treinar condicional composta (if e else)
- * Verifica as condições de dois números
+ * Verifica as condições de dois números (qual é maior, qual é menor)
  */
 
 package com.lucas.javatraining;
