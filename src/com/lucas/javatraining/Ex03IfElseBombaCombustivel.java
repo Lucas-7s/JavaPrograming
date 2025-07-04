@@ -1,6 +1,6 @@
 /*
  * Programa para treinar Estrutura Condicional Encadeada
- * Programa que Verifica o status do tanque: Se cheio, se meio, se reserva
+ * Programa que Verifica o status do tanque (Se cheio, se meio ou se reserva)
  */
 
 package com.lucas.javatraining;
