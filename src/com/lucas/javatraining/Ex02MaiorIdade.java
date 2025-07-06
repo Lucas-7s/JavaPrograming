@@ -1,5 +1,5 @@
-/*
- * Programa para treinar Estrutura Condicional Encadeada
+/* O QUE O PROGRAMA FAZ:
+ * Programa para treinar Estrutura Condicional Simples (if, else)
  * Pede data de nascimento e calcula a idade (ano base do programa 2025)
 */
 
@@ -7,7 +7,7 @@ package com.lucas.javatraining;
 
 import java.util.Scanner;
 
-public class Ex02IfElseMaiorIdade {
+public class Ex02MaiorIdade {
 
 	public static void main(String[] args) {
 

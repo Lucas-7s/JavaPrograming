@@ -1,4 +1,4 @@
-/*
+/* O QUE O PROGRAMA FAZ:
  * Programa para treinar condicional composta (if e else)
  * Verifica se o número digitado é par ou impar
 */
@@ -7,7 +7,7 @@ package com.lucas.javatraining;
 
 import java.util.Scanner;
 
-public class Ex02IfElseParOuImpar {
+public class Ex02ParOuImpar {
 
 	public static void main(String[] args) {
 		Scanner teclado = new Scanner(System.in);

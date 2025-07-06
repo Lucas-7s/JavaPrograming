@@ -1,14 +1,13 @@
-/*
- * Programa para treinar condicional simples (If).
- * Calculo IMC (Índice de Massa Corporal) para verificar
- * a massa corpórica, calculo para homens e para mulheres
+/* O QUE O PROGRAMA FAZ:
+ * Programa para treinar Estrutura Condicional Encadeada (if, else if, else)
+ * Calculo IMC (Índice de Massa Corporal) para verificar a massa corpórica, calculo para homens e para mulheres
 */
 
 package com.lucas.javatraining;
 
 import java.util.Scanner;
 
-public class Ex02IfElseCalculoIMC {
+public class Ex03CalculoIMC {
 	public static void main(String[] args) {
 		
 		//Abre a entrada (digitação do usuário) nome teclado

@@ -1,10 +1,13 @@
-//Programa para treinar condicional simples (if)
+/* O QUE O PROGRAMA FAZ:
+ * Programa para treinar condicional simples
+ * Calcula a média entre duas notas com if e if, else
+ */
 
 package com.lucas.javatraining;
 
 import java.util.Scanner;
 
-public class Ex02IfElse {
+public class Ex02_If_Else {
 
 	
 	public static void main(String args[]) {

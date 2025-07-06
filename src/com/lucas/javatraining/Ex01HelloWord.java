@@ -1,4 +1,7 @@
-//Programa para treinar entrada e saida simples
+/* O QUE O PROGRAMA FAZ:
+ * Programa para treinar entrada e saida simples
+ * Pede dados simples (entrada e saida de dados)
+ */
 
 package com.lucas.javatraining;
 

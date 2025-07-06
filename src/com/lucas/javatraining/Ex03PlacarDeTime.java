@@ -1,5 +1,5 @@
-/*
- * Programa para treinar Estrutura Condicional Encadeada
+/* O QUE O PROGRAMA FAZ:
+ * Programa para treinar Estrutura Condicional Encadeada (if, else if, else)
  * Programa que Verifica Placar de Gols e Determina a vitória
  */
 
@@ -7,7 +7,7 @@ package com.lucas.javatraining;
 
 import java.util.Scanner;
 
-public class Ex03IfElsePlacarDeTime {
+public class Ex03PlacarDeTime {
 
 	public static void main(String[] args) {
 

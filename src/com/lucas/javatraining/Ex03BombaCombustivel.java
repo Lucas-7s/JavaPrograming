@@ -1,5 +1,5 @@
-/*
- * Programa para treinar Estrutura Condicional Encadeada
+/* O QUE O PROGRAMA FAZ:
+ * Programa para treinar Estrutura Condicional Encadeada (if, else if, else)
  * Programa que Verifica o status do tanque (Se cheio, se meio ou se reserva)
  */
 
@@ -7,7 +7,7 @@ package com.lucas.javatraining;
 
 import java.util.Scanner;
 
-public class Ex03IfElseBombaCombustivel {
+public class Ex03BombaCombustivel {
 
 	public static void main(String[] args) {
 		

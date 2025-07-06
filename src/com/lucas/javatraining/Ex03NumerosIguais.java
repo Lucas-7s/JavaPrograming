@@ -1,5 +1,5 @@
-/*
- * Programa para treinar condicional composta (if e else)
+/* O QUE O PROGRAMA FAZ:
+ * Programa para treinar Estrutura Condicional Encadeada (if, else if, else)
  * Verifica as condições de dois números (qual é maior, qual é menor)
  */
 
@@ -7,7 +7,7 @@ package com.lucas.javatraining;
 
 import java.util.Scanner;
 
-public class Ex03IfElseNumerosIguais {
+public class Ex03NumerosIguais {
 
 	public static void main(String[] args) {
 		

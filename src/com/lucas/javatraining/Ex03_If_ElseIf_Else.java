@@ -1,5 +1,5 @@
-/*
- * Programa para treinar Estrutura Condicional Encadeada
+/* O QUE O PROGRAMA FAZ:
+ * Programa para treinar Estrutura Condicional Encadeada (if, else if, else)
  * Pega 2 notas e calcula a média com resposta personalizada
  */
 
@@ -7,7 +7,7 @@ package com.lucas.javatraining;
 
 import java.util.Scanner;
 
-public class Ex03IfElseEncadeado {
+public class Ex03_If_ElseIf_Else {
 
 	public static void main(String[] args) {
 		
@@ -28,7 +28,6 @@ public class Ex03IfElseEncadeado {
 		System.out.print("Digite a nota 02: ");
 		String nota2 = teclado.nextLine();
 		nota2 = nota2.replace(",", "."); 
-		
 		
 		//calculo
 		float media = (Float.parseFloat(nota1) + Float.parseFloat(nota2)) / 2;
