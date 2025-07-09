@@ -1,4 +1,4 @@
-/*O QUE O PROGRAMA FAZ:
+/* O QUE O PROGRAMA FAZ:
  * Programa para treinar Estrutura Condicional Encadeada (if, else if, else)
  * Programa que analisa idade obrigatoriedade de votos
  */
