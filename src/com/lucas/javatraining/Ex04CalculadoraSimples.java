@@ -1,4 +1,4 @@
-/*
+/* O QUE O PROGRAMA FAZ:
  * Programa para treinar Switch Case
  * Calculadora simples
  */
