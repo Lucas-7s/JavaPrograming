@@ -14,20 +14,24 @@ public class Ex05MaiorIdade {
 		Scanner teclado = new Scanner(System.in);
 		
 		//declaração de variáveis
-		String titulo = "Programa que entre 7 pessoas quem é maior de idade";
+		String titulo = "Programa que verifica pessoas que é maior de idade";
 		int cc = 1;
 		int idade;
 		int cMaiorIdade = 0;
 		int anoNascimento;
 		int anoAtual = 2025;
+		int qtdPessoas;
 
 		//intro
 	    System.out.println("-".repeat(70));
 	    System.out.println(" ".repeat((70 - titulo.length())/2) + titulo.toUpperCase());
 	    System.out.println("-".repeat(70) + "\n");
 	    
+	    System.out.print("Quantas pessoas vão ser verificadas?: ");
+    	qtdPessoas = teclado.nextInt();
+	    
 	    //looping entrada de dados
-	    while(cc <= 7) {
+	    while(cc <= qtdPessoas) {
 	    	
 	    	System.out.print("Digite o ano de nascimento do " + cc + "º integrante: ");
 	    	anoNascimento = teclado.nextInt();
@@ -42,7 +46,11 @@ public class Ex05MaiorIdade {
 	    }
 	    
 	    //saida
-	    System.out.println("\n" + "No grupo de " + (cc-1) + " pessoas, " + cMaiorIdade + " são maior de idade.");
+	    System.out.print("\n" + "No grupo de " + (cc-1) + " pessoas, " + cMaiorIdade);
+	    
+	    //if simples
+	    if (cMaiorIdade == 1) System.out.println(" é maior de idade.");
+	    else System.out.println(" são maior de idade.");
 	    
 	    System.out.println("\n" + "-".repeat(70));
 	    teclado.close();
