@@ -41,7 +41,15 @@ public class Ex05MediaNotas {
 	    
 	    //resultado
 	    media = somaNotas / qtdNotas;
-	    System.out.println("\n" + "A média é " + media);
+	    System.out.print("\n" + "A média é " + media);
+	    
+	    if(media >= 7) {
+	    	System.out.println(" APROVADO!");
+	    } else if (media >= 5) {
+	    	System.out.println(" RECUPERAÇÃO!");
+	    } else {
+	    	System.out.println(" REPROVADO!");
+	    }
 	    
 	    System.out.println("\n" + "-".repeat(55));
 	    teclado.close();
