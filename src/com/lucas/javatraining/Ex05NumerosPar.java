@@ -16,12 +16,13 @@ public class Ex05NumerosPar {
 		//intro
 		System.out.println("=".repeat(70));
 		System.out.println(" ".repeat((70 - titulo.length())/2) + titulo.toUpperCase());
-		System.out.println("=".repeat(70));
+		System.out.println("=".repeat(70) + "\n");
 		
 		cc = 0;
 		
-		while (cc<= 12) {
+		while (cc <= 12) {
 			cc ++;
+			System.out.println(cc);
 			
 			if (cc == 2) {
 				continue;
