@@ -1,4 +1,4 @@
-/* 
+/* Exercicio
  * Faça um programa que leia no teclado um número inteiro e mostre na tela o seu antecessor e seu sucessor
  */
 
