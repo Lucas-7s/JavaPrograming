@@ -1,3 +1,10 @@
+/* Exercício
+ * Formatar Texto como Título
+ * Ler um texto digitado pelo usuário e converter cada palavra para o formato "Título",
+ * onde a primeira letra é maiúscula e as demais minúsculas.
+ */
+
+
 package com.lucas.javatraining;
 
 import java.util.Scanner;
