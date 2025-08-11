@@ -1,6 +1,7 @@
-/* O QUE O PROGRAMA FAZ:
- * Programa para treinar condicional simples
- * Calcula a média entre duas notas com if e if, else
+/* Exercício
+ * Estruturas Condicionais (If / Else)
+ * Calcular a média de duas notas e exibir mensagens diferentes com base no resultado,
+ * utilizando exemplos de condição simples e condição composta.
  */
 
 package com.lucas.javatraining;
