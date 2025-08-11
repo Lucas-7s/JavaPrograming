@@ -1,6 +1,7 @@
-/* O QUE O PROGRAMA FAZ:
- * Programa para treinar entrada e saida simples
- * Pede dados simples (entrada e saida de dados)
+/* Exercício
+ * Hello World com Entrada de Dados
+ * Exibir uma mensagem "Hello World" e solicitar ao usuário seu nome, idade e peso,
+ * exibindo as informações formatadas na tela.
  */
 
 package com.lucas.javatraining;
