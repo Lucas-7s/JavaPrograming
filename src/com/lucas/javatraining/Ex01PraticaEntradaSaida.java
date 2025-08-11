@@ -1,4 +1,4 @@
-/* DESAFIO
+/* Exercicio
  * Gerar um script Java que leia o Nome da Pessoa e mostre na tela, juntamente com uma mensagem de Boas Vindas.
  * Programa para treinar entrada e saida simples
  */
