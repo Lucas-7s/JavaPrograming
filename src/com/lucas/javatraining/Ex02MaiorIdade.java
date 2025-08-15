@@ -1,7 +1,8 @@
-/* O QUE O PROGRAMA FAZ:
- * Programa para treinar Estrutura Condicional Simples (if, else)
- * Pede data de nascimento e calcula a idade (ano base do programa 2025)
-*/
+/* Exercício
+ * Verificação de Maioridade
+ * Calcular a idade do usuário a partir do ano de nascimento e informar
+ * se ele é menor ou maior de idade.
+ */
 
 package com.lucas.javatraining;
 
