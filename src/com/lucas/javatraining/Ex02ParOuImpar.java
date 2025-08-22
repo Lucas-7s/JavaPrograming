@@ -1,7 +1,7 @@
-/* O QUE O PROGRAMA FAZ:
- * Programa para treinar condicional composta (if e else)
- * Verifica se o número digitado é par ou impar
-*/
+/* Exercício
+ * Verificação de Par ou Ímpar
+ * Ler um número inteiro e determinar se ele é par ou ímpar.
+ */
 
 package com.lucas.javatraining;
 
