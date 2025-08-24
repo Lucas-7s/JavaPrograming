@@ -1,6 +1,8 @@
-/* O QUE O PROGRAMA FAZ:
- * Programa para treinar Estrutura Condicional Encadeada (if, else if, else)
- * Pega 2 notas e calcula a média com resposta personalizada
+/* Exercício
+ * Cálculo de Média e Situação do Aluno
+ * Ler duas notas digitadas pelo usuário (aceitando vírgula ou ponto como separador decimal).
+ * Calcular a média aritmética e exibir o resultado junto com a situação do aluno:
+ * "Aprovado" para média >= 7, "Recuperação" para média entre 5 e 6,9, ou "Reprovado" para média < 5.
  */
 
 package com.lucas.javatraining;
