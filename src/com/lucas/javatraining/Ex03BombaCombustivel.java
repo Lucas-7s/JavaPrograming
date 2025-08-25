@@ -1,6 +1,7 @@
-/* O QUE O PROGRAMA FAZ:
- * Programa para treinar Estrutura Condicional Encadeada (if, else if, else)
- * Programa que Verifica o status do tanque (Se cheio, se meio ou se reserva)
+/* Exercício
+ * Verificação do Nível de Combustível
+ * Ler a quantidade de litros no tanque e informar se o veículo está na reserva,
+ * com meio tanque ou cheio.
  */
 
 package com.lucas.javatraining;
