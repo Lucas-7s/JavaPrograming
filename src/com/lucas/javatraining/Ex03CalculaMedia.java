@@ -1,6 +1,7 @@
-/* O QUE O PROGRAMA FAZ:
- * Programa para treinar Estrutura Condicional Encadeada (if, else if, else)
- * Programa que analisa media e precensa para ser aprovado
+/* Exercício
+ * Cálculo de Média e Frequência
+ * Calcular a média de duas notas e o percentual de presença do aluno,
+ * determinando se ele está aprovado, em recuperação ou reprovado.
  */
 
 package com.lucas.javatraining;
