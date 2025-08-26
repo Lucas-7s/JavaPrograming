@@ -1,7 +1,8 @@
-/* O QUE O PROGRAMA FAZ:
- * Programa para treinar Estrutura Condicional Encadeada (if, else if, else)
- * Calculo IMC (Índice de Massa Corporal) para verificar a massa corpórica, calculo para homens e para mulheres
-*/
+/* Exercício
+ * Calculadora de IMC
+ * Calcular o Índice de Massa Corporal (IMC) a partir da altura e peso informados,
+ * classificando o resultado separadamente para homens e mulheres.
+ */
 
 package com.lucas.javatraining;
 
