@@ -1,6 +1,6 @@
-/* O QUE O PROGRAMA FAZ:
- * Programa para treinar Estrutura Condicional Encadeada (if, else if, else)
- * Verifica as condições de dois números (qual é maior, qual é menor)
+/* Exercício
+ * Comparação de Dois Números
+ * Ler dois números e informar se o primeiro é maior, menor ou igual ao segundo.
  */
 
 package com.lucas.javatraining;
