@@ -1,6 +1,7 @@
-/* O QUE O PROGRAMA FAZ:
- * Programa para treinar Switch Case
- * Programa que analisa Quantidade de Pernas
+/* Exercício
+ * Identificação por Quantidade de Pernas
+ * Ler o número de pernas informado pelo usuário e classificar o ser
+ * utilizando a estrutura condicional switch case.
  */
 
 package com.lucas.javatraining;
