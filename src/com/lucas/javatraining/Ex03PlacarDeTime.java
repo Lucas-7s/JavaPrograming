@@ -1,6 +1,7 @@
-/* O QUE O PROGRAMA FAZ:
- * Programa para treinar Estrutura Condicional Encadeada (if, else if, else)
- * Programa que Verifica Placar de Gols e Determina a vitória
+/* Exercício
+ * Comparação de Placar de Futebol
+ * Ler os nomes de dois times e a quantidade de gols marcados por cada um.
+ * Exibir o resultado da partida informando se houve vitória ou empate.
  */
 
 package com.lucas.javatraining;
